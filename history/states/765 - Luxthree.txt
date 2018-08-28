@@ -1,0 +1,26 @@
+state=
+{
+	id=765
+	name="Luxemburg Highway"
+	
+	state_category = town
+	
+	manpower = 100000
+	
+
+	history=
+	{
+		owner = LUX
+		buildings = {
+			infrastructure = 10
+			arms_factory = 10
+			industrial_complex = 10
+		}
+		victory_points = { 13208 6 }
+		add_core_of = LUX
+	}
+
+	provinces=
+	{
+13208 	}
+}

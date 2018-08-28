@@ -1,0 +1,31 @@
+state=
+{
+	id=764
+	name="Luxemburg City"
+	
+	state_category = megalopolis
+	
+	manpower = 700000
+	resources={
+		steel=1000000 # was: 10000000
+		oil=1000000 # was: 10000000
+		chromium=1000000 # was: 10000000
+		rubber=1000000 # was: 10000000
+	}
+
+	history=
+	{
+		owner = LUX
+		buildings = {
+			infrastructure = 7
+			arms_factory = 10
+			industrial_complex = 10
+		}
+		victory_points = { 13207 10 }
+		add_core_of = LUX
+	}
+
+	provinces=
+	{
+13207 	}
+}

@@ -1,0 +1,48 @@
+
+music = {
+	song = "maintheme"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+# PEACE SONGS ##################
+music = {
+	song = "We Gotta Get Out Of This Place"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			
+		}		
+	}	
+}
+
+music = {
+	song = "Never Gonna Give You Up"
+	
+	chance = {
+		modifier = {
+			factor = 5
+			
+		}		
+	}	
+}
+
+music = {
+	song = "Peter Paul Mary Puff The Magic Dragon"
+	
+	chance = {
+		modifier = {
+			factor = 3
+
+			
+		}		
+	}
+}
+
+
+}
